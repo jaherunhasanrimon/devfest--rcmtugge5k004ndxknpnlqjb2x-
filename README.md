@@ -6,7 +6,8 @@
 - **Participant Full Name:** Jahirun Hassan Rimon
 - **Registration Number:** `rcmtugge5k004ndxknpnlqjb2x-`
 - **Public GitHub Repository:** [https://github.com/jaherunhasanrimon/devfest--rcmtugge5k004ndxknpnlqjb2x-](https://github.com/jaherunhasanrimon/devfest--rcmtugge5k004ndxknpnlqjb2x-)
-- **Public Live Website Link:** [https://jaherunhasanrimon.github.io/devfest--rcmtugge5k004ndxknpnlqjb2x-/](https://jaherunhasanrimon.github.io/devfest--rcmtugge5k004ndxknpnlqjb2x-/)
+- **Public Live Website Link:** [https://smartescape-three.vercel.app/](https://smartescape-three.vercel.app/)
+- **Alternative Mirror:** [https://jaherunhasanrimon.github.io/devfest--rcmtugge5k004ndxknpnlqjb2x-/](https://jaherunhasanrimon.github.io/devfest--rcmtugge5k004ndxknpnlqjb2x-/)
 
 ---
 
